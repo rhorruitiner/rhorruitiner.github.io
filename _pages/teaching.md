@@ -5,13 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+[Introduction to Analysis MATH3310-002](https://canvas.cornell.edu/courses/3571)
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+I am a TA for MATH3310-002. Visit the Canvas page for more information, including course syllabus, assignments and grades.
